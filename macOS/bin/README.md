@@ -1,5 +1,5 @@
 # Compiled program
 
-ContactBook.zip - Archive with Contact Book.app
+Contact Book.zip - Archive with Contact Book.app
 
-ContactBook.pkg - Installer Contact Book.app
+Contact Book.pkg - Installer Contact Book.app
